@@ -1,0 +1,3 @@
+# Taksamittari
+
+Taksamittari on suomennettu, Netistä pohja ja muokattu. Vaatii Taksi työn, Aukeaa 8 napista...
